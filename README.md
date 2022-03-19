@@ -1,9 +1,16 @@
 
-# Olá, eu sou o Alan! 👋
+# Hi, I'm Alan! 👋
 
 
-## 🛠 Habilidades
-Javascript, HTML, CSS, NodeJS, Python, Java, C/C++
+👩‍💻 I'm software enginer
+
+🧠 I'm learning ReactJS
+
+📫  How to reach me alanadson.exe@gmail.com
+
+
+## 🛠 Abilitys
+Javascript, HTML, CSS, NodeJS, Python, Java, C/C++, Git, SQL
 
 
 ## 🔗 Links
