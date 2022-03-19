@@ -2,7 +2,7 @@
 # Hi, I'm Alan! 👋
 
 
-👩‍💻 I'm software enginer
+👩‍💻 I'm a software enginer
 
 🧠 I'm learning ReactJS
 
