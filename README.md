@@ -1,16 +1,15 @@
 
-# Hi, I'm Alan! 👋
+# Hi, I'm Alan 👋
 
 
 👩‍💻 I'm a software engineer
 
-🧠 I'm learning ReactJS
+📫 How to reach me alanadson.exe@gmail.com
 
-📫  How to reach me alanadson.exe@gmail.com
 
 
 ## 🛠 Abilitys
-Javascript, HTML, CSS, NodeJS, Python, Java, C/C++, Git, SQL
+Javascript, HTML, CSS, C/C++, Python, Git, SQL
 
 
 ## 🔗 Links
