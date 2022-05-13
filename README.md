@@ -9,7 +9,7 @@
 
 
 ## 🛠 Abilitys
-Javascript, HTML, CSS, C/C++, Python, Git, SQL
+Javascript, HTML, CSS, C/C++, Python, Node.js, Git, SQL
 
 
 ## 🔗 Links
