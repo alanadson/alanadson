@@ -9,7 +9,7 @@
 
 
 ## 🛠 Abilitys
-Javascript, HTML, CSS, C/C++, Python, Node.js, React, PHP, Git, SQL
+Typescript, Javascript, HTML, CSS, C/C++, Python, Node.js, ReactJS, PHP, Git, SQL
 
 
 ## 🔗 Links
