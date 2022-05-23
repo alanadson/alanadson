@@ -1,16 +1,9 @@
 
-# Hi, I'm Alan 👋
+# I'm Alan 👋
 
+> Keep reading and coding.
 
-👩‍💻 I'm a software engineer
-
-📫 How to reach me alanadson.exe@gmail.com
-
-
-
-## 🛠 Abilitys
-Typescript, Javascript, HTML, CSS, C/C++, Python, Node.js, ReactJS, PHP, Git, SQL
-
+Brasil・🚀 Fullstack Engineer
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alanadson.com/)
