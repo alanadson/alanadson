@@ -11,7 +11,3 @@ Brasil・🚀 Fullstack Engineer
 [![gmail](https://img.shields.io/badge/gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanadson.exe@gmail.com)
 
 </br>
-
-
- <a href="https://github.com/alanadson">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadson&layout=compact&langs_count=7&theme=dark"/>
