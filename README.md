@@ -13,5 +13,5 @@ Brasil・🚀 Fullstack Engineer
 </br>
 
 <a href="https://github.com/alanadson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadson&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alanadson&repo=anuraghazra.github.io&theme=buefy" />
 </a>
