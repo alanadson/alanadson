@@ -4,8 +4,6 @@
 
 Brasil・🚀 Fullstack Engineer
 
-</br>
-
 ## 🔗 Links
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alanadson.com/)
@@ -30,4 +28,10 @@ Brasil・🚀 Fullstack Engineer
 
 </br>
 
-![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alanadson&show_icons=true&theme=dracula)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<p>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alanadson&show_icons=true&theme=dracula">
+</p>
+</details>
