@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/alanadson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanadson" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alanadson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alanadson" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alanadson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alanadson" height="30" width="40" /></a>
-<a href="https://instagram.com/soualanadson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soualanadson" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alanadson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alanadson" height="30" width="40" /></a>
 </p>
 
