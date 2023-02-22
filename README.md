@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Alan.;Hi+there%2C+I'm+Programmer%C3%B8y.)](https://alanadson.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Alan.;Hi+there%2C+I'm+Programmer.)](https://alanadson.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
